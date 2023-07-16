@@ -1,0 +1,1217 @@
+[
+    {
+        "id": 1,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 210,
+        "temperaturwert": 26.7,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:00:00"
+    },
+    {
+        "id": 2,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 210,
+        "temperaturwert": 26.7,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:15:00"
+    },
+    {
+        "id": 3,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 226.67,
+        "temperaturwert": 26.7,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:30:00"
+    },
+    {
+        "id": 4,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 226.67,
+        "temperaturwert": 26.7,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:45:00"
+    },
+    {
+        "id": 5,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 226.67,
+        "temperaturwert": 26.7,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T10:00:00"
+    },
+    {
+        "id": 6,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 226.67,
+        "temperaturwert": 26.7,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T10:15:00"
+    },
+    {
+        "id": 7,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 226.67,
+        "temperaturwert": 26.7,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T10:30:00"
+    },
+    {
+        "id": 8,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 223.33,
+        "temperaturwert": 26.7,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T10:45:00"
+    },
+    {
+        "id": 9,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 223.33,
+        "temperaturwert": 26.7,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T11:00:00"
+    },
+    {
+        "id": 10,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 223.33,
+        "temperaturwert": 26.8,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T11:15:00"
+    },
+    {
+        "id": 11,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 223.33,
+        "temperaturwert": 26.8,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T11:30:00"
+    },
+    {
+        "id": 12,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 223.33,
+        "temperaturwert": 26.8,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:36:27"
+    },
+    {
+        "id": 13,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 220,
+        "temperaturwert": 26.8,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:36:27"
+    },
+    {
+        "id": 14,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 220,
+        "temperaturwert": 26.8,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:36:27"
+    },
+    {
+        "id": 15,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 220,
+        "temperaturwert": 26.8,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:36:27"
+    },
+    {
+        "id": 16,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 220,
+        "temperaturwert": 26.8,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:36:27"
+    },
+    {
+        "id": 17,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 220,
+        "temperaturwert": 26.8,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:36:32"
+    },
+    {
+        "id": 18,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 216.67,
+        "temperaturwert": 26.8,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:36:32"
+    },
+    {
+        "id": 19,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 216.67,
+        "temperaturwert": 26.8,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:36:32"
+    },
+    {
+        "id": 20,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 216.67,
+        "temperaturwert": 26.8,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:36:32"
+    },
+    {
+        "id": 21,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 216.67,
+        "temperaturwert": 26.8,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:36:32"
+    },
+    {
+        "id": 22,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 210,
+        "temperaturwert": 27.1,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:37"
+    },
+    {
+        "id": 23,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 210,
+        "temperaturwert": 27.1,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:42"
+    },
+    {
+        "id": 24,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27.1,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:42"
+    },
+    {
+        "id": 25,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27.1,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:42"
+    },
+    {
+        "id": 26,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27.1,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:42"
+    },
+    {
+        "id": 27,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27.1,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:42"
+    },
+    {
+        "id": 28,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27.1,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:47"
+    },
+    {
+        "id": 29,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 206.67,
+        "temperaturwert": 27.1,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:47"
+    },
+    {
+        "id": 30,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 206.67,
+        "temperaturwert": 27.1,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:47"
+    },
+    {
+        "id": 31,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 206.67,
+        "temperaturwert": 27.1,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:47"
+    },
+    {
+        "id": 32,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 206.67,
+        "temperaturwert": 27.1,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:47"
+    },
+    {
+        "id": 33,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 206.67,
+        "temperaturwert": 27.1,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:52"
+    },
+    {
+        "id": 34,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27.1,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:52"
+    },
+    {
+        "id": 35,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27.1,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:52"
+    },
+    {
+        "id": 36,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:52"
+    },
+    {
+        "id": 37,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:52"
+    },
+    {
+        "id": 38,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:57"
+    },
+    {
+        "id": 39,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:57"
+    },
+    {
+        "id": 40,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:57"
+    },
+    {
+        "id": 41,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:43:57"
+    },
+    {
+        "id": 42,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:43:57"
+    },
+    {
+        "id": 43,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:44:02"
+    },
+    {
+        "id": 44,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 196.67,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:44:02"
+    },
+    {
+        "id": 45,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 196.67,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:44:02"
+    },
+    {
+        "id": 46,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 196.67,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:44:02"
+    },
+    {
+        "id": 47,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 196.67,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:44:02"
+    },
+    {
+        "id": 48,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 196.67,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:44:07"
+    },
+    {
+        "id": 49,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 200,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:44:07"
+    },
+    {
+        "id": 50,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 200,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:44:07"
+    },
+    {
+        "id": 51,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 200,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 45,
+        "zeit": "2023-07-12T09:44:07"
+    },
+    {
+        "id": 52,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 200,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:07"
+    },
+    {
+        "id": 53,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 200,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:12"
+    },
+    {
+        "id": 54,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:12"
+    },
+    {
+        "id": 55,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:12"
+    },
+    {
+        "id": 56,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:12"
+    },
+    {
+        "id": 57,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:12"
+    },
+    {
+        "id": 58,
+        "pID": 2,
+        "feuchtigkeitswert": 337,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:17"
+    },
+    {
+        "id": 59,
+        "pID": 2,
+        "feuchtigkeitswert": 337,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:17"
+    },
+    {
+        "id": 60,
+        "pID": 2,
+        "feuchtigkeitswert": 337,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:17"
+    },
+    {
+        "id": 61,
+        "pID": 2,
+        "feuchtigkeitswert": 337,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:17"
+    },
+    {
+        "id": 62,
+        "pID": 2,
+        "feuchtigkeitswert": 337,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:17"
+    },
+    {
+        "id": 63,
+        "pID": 2,
+        "feuchtigkeitswert": 347,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:22"
+    },
+    {
+        "id": 64,
+        "pID": 2,
+        "feuchtigkeitswert": 347,
+        "helligkeitswert": 206.67,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:22"
+    },
+    {
+        "id": 65,
+        "pID": 2,
+        "feuchtigkeitswert": 347,
+        "helligkeitswert": 206.67,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:22"
+    },
+    {
+        "id": 66,
+        "pID": 2,
+        "feuchtigkeitswert": 347,
+        "helligkeitswert": 206.67,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:22"
+    },
+    {
+        "id": 67,
+        "pID": 2,
+        "feuchtigkeitswert": 347,
+        "helligkeitswert": 206.67,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:22"
+    },
+    {
+        "id": 68,
+        "pID": 2,
+        "feuchtigkeitswert": 353,
+        "helligkeitswert": 206.67,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:27"
+    },
+    {
+        "id": 69,
+        "pID": 2,
+        "feuchtigkeitswert": 353,
+        "helligkeitswert": 223.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:27"
+    },
+    {
+        "id": 70,
+        "pID": 2,
+        "feuchtigkeitswert": 353,
+        "helligkeitswert": 223.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:27"
+    },
+    {
+        "id": 71,
+        "pID": 2,
+        "feuchtigkeitswert": 353,
+        "helligkeitswert": 223.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:27"
+    },
+    {
+        "id": 72,
+        "pID": 2,
+        "feuchtigkeitswert": 353,
+        "helligkeitswert": 223.33,
+        "temperaturwert": 27,
+        "luftfeuchtigkeitswert": 46,
+        "zeit": "2023-07-12T09:44:27"
+    },
+    {
+        "id": 73,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 3036.67,
+        "temperaturwert": 26.4,
+        "luftfeuchtigkeitswert": 48,
+        "zeit": "2023-07-12T09:53:53"
+    },
+    {
+        "id": 74,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 206.67,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:28"
+    },
+    {
+        "id": 75,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 206.67,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:33"
+    },
+    {
+        "id": 76,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:33"
+    },
+    {
+        "id": 77,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:34"
+    },
+    {
+        "id": 78,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:34"
+    },
+    {
+        "id": 79,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:34"
+    },
+    {
+        "id": 80,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:38"
+    },
+    {
+        "id": 81,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:38"
+    },
+    {
+        "id": 82,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:38"
+    },
+    {
+        "id": 83,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:38"
+    },
+    {
+        "id": 84,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:39"
+    },
+    {
+        "id": 85,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:43"
+    },
+    {
+        "id": 86,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 220,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:43"
+    },
+    {
+        "id": 87,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 220,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:43"
+    },
+    {
+        "id": 88,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 220,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:43"
+    },
+    {
+        "id": 89,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 220,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:43"
+    },
+    {
+        "id": 90,
+        "pID": 2,
+        "feuchtigkeitswert": 698,
+        "helligkeitswert": 220,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:48"
+    },
+    {
+        "id": 91,
+        "pID": 2,
+        "feuchtigkeitswert": 698,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:48"
+    },
+    {
+        "id": 92,
+        "pID": 2,
+        "feuchtigkeitswert": 698,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:49"
+    },
+    {
+        "id": 93,
+        "pID": 2,
+        "feuchtigkeitswert": 698,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:49"
+    },
+    {
+        "id": 94,
+        "pID": 2,
+        "feuchtigkeitswert": 698,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:49"
+    },
+    {
+        "id": 95,
+        "pID": 2,
+        "feuchtigkeitswert": 421,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:53"
+    },
+    {
+        "id": 96,
+        "pID": 2,
+        "feuchtigkeitswert": 421,
+        "helligkeitswert": 206.67,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:53"
+    },
+    {
+        "id": 97,
+        "pID": 2,
+        "feuchtigkeitswert": 421,
+        "helligkeitswert": 206.67,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:53"
+    },
+    {
+        "id": 98,
+        "pID": 2,
+        "feuchtigkeitswert": 421,
+        "helligkeitswert": 206.67,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:54"
+    },
+    {
+        "id": 99,
+        "pID": 2,
+        "feuchtigkeitswert": 421,
+        "helligkeitswert": 206.67,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:54"
+    },
+    {
+        "id": 100,
+        "pID": 2,
+        "feuchtigkeitswert": 406,
+        "helligkeitswert": 206.67,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:58"
+    },
+    {
+        "id": 101,
+        "pID": 2,
+        "feuchtigkeitswert": 406,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:58"
+    },
+    {
+        "id": 102,
+        "pID": 2,
+        "feuchtigkeitswert": 406,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:59"
+    },
+    {
+        "id": 103,
+        "pID": 2,
+        "feuchtigkeitswert": 406,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:59"
+    },
+    {
+        "id": 104,
+        "pID": 2,
+        "feuchtigkeitswert": 406,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:39:59"
+    },
+    {
+        "id": 105,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:03"
+    },
+    {
+        "id": 106,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:03"
+    },
+    {
+        "id": 107,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 28.1,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:04"
+    },
+    {
+        "id": 108,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:04"
+    },
+    {
+        "id": 109,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:04"
+    },
+    {
+        "id": 110,
+        "pID": 2,
+        "feuchtigkeitswert": 1019,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:08"
+    },
+    {
+        "id": 111,
+        "pID": 2,
+        "feuchtigkeitswert": 1019,
+        "helligkeitswert": 193.33,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:08"
+    },
+    {
+        "id": 112,
+        "pID": 2,
+        "feuchtigkeitswert": 1019,
+        "helligkeitswert": 193.33,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:09"
+    },
+    {
+        "id": 113,
+        "pID": 2,
+        "feuchtigkeitswert": 1019,
+        "helligkeitswert": 193.33,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:09"
+    },
+    {
+        "id": 114,
+        "pID": 2,
+        "feuchtigkeitswert": 1019,
+        "helligkeitswert": 193.33,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:09"
+    },
+    {
+        "id": 115,
+        "pID": 2,
+        "feuchtigkeitswert": 1020,
+        "helligkeitswert": 193.33,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:13"
+    },
+    {
+        "id": 116,
+        "pID": 2,
+        "feuchtigkeitswert": 1020,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:13"
+    },
+    {
+        "id": 117,
+        "pID": 2,
+        "feuchtigkeitswert": 1020,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:14"
+    },
+    {
+        "id": 118,
+        "pID": 2,
+        "feuchtigkeitswert": 1020,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:14"
+    },
+    {
+        "id": 119,
+        "pID": 2,
+        "feuchtigkeitswert": 1020,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:14"
+    },
+    {
+        "id": 120,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 213.33,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:21"
+    },
+    {
+        "id": 121,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 200,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:22"
+    },
+    {
+        "id": 122,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 200,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:22"
+    },
+    {
+        "id": 123,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 200,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:22"
+    },
+    {
+        "id": 124,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 200,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:22"
+    },
+    {
+        "id": 125,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 200,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:24"
+    },
+    {
+        "id": 126,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:24"
+    },
+    {
+        "id": 127,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:24"
+    },
+    {
+        "id": 128,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:24"
+    },
+    {
+        "id": 129,
+        "pID": 2,
+        "feuchtigkeitswert": 1023,
+        "helligkeitswert": 203.33,
+        "temperaturwert": 28.2,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:40:24"
+    },
+    {
+        "id": 130,
+        "pID": 2,
+        "feuchtigkeitswert": 412,
+        "helligkeitswert": 230,
+        "temperaturwert": 28.4,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:42:24"
+    },
+    {
+        "id": 131,
+        "pID": 2,
+        "feuchtigkeitswert": 438,
+        "helligkeitswert": 230,
+        "temperaturwert": 28.4,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:42:29"
+    },
+    {
+        "id": 132,
+        "pID": 2,
+        "feuchtigkeitswert": 438,
+        "helligkeitswert": 226.67,
+        "temperaturwert": 28.4,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:42:29"
+    },
+    {
+        "id": 133,
+        "pID": 2,
+        "feuchtigkeitswert": 438,
+        "helligkeitswert": 226.67,
+        "temperaturwert": 28.4,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:42:29"
+    },
+    {
+        "id": 134,
+        "pID": 2,
+        "feuchtigkeitswert": 438,
+        "helligkeitswert": 226.67,
+        "temperaturwert": 28.5,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:42:29"
+    },
+    {
+        "id": 135,
+        "pID": 2,
+        "feuchtigkeitswert": 438,
+        "helligkeitswert": 226.67,
+        "temperaturwert": 28.5,
+        "luftfeuchtigkeitswert": 44,
+        "zeit": "2023-07-12T11:42:29"
+    }
+]
