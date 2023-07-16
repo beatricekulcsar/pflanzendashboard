@@ -8,7 +8,7 @@ export const WassergehaltChart = (props) => {
 	const {data} = props;
 	return (
 		<AreaChart
-			className="mt-6 h-80"
+			className="mt-6 h-44"
 			data={data}
 			index="Uhrzeit"
 			categories={["Wassergehalt"]}

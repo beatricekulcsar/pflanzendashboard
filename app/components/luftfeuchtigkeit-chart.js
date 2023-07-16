@@ -7,7 +7,7 @@ export const LuftfeuchtigkeitChart = (props) => {
             className="mt-6 h-36"
             data={data}
             index="Uhrzeit"
-            categories={["luftfeuchtigkeit"]}
+            categories={["Luftfeuchtigkeit"]}
             colors={["gray"]}
             showXAxis={true}
             showGridLines={false}

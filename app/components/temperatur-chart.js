@@ -7,7 +7,7 @@ export const TemperaturChart = (props) => {
             className="mt-6 h-36"
             data={data}
             index="Uhrzeit"
-            categories={["temperatur"]}
+            categories={["Temperatur"]}
             colors={["gray"]}
             showXAxis={true}
             showGridLines={false}

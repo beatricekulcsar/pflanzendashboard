@@ -23,7 +23,7 @@ function transformLuftfeuchtigkeitData(input) {
     
     return {
       Uhrzeit: uhrzeit,
-      luftfeuchtigkeit: luftfeuchtigkeitswert
+      Luftfeuchtigkeit: luftfeuchtigkeitswert
     };
   });
   
@@ -37,7 +37,7 @@ function transformHelligkeitData(input) {
     
     return {
       Uhrzeit: uhrzeit,
-      helligkeit: helligkeitswert
+      Helligkeit: helligkeitswert
     };
   });
   
@@ -51,7 +51,7 @@ function transformTemperaturData(input) {
     
     return {
       Uhrzeit: uhrzeit,
-      temperatur: temperaturwert
+      Temperatur: temperaturwert
     };
   });
   
@@ -69,10 +69,10 @@ async function getData() {
 
     const fakeData = fakeJSON.slice(fakeJSON.length - 96, fakeJSON.length);
     return {
-      wassergehalt: transformWassergehaltData(fakeData),
-      luftfeuchtigkeit: transformLuftfeuchtigkeitData(fakeData),
-      helligkeit: transformHelligkeitData(fakeData),
-      temperatur: transformTemperaturData(fakeData)
+      Wassergehalt: transformWassergehaltData(fakeData),
+      Luftfeuchtigkeit: transformLuftfeuchtigkeitData(fakeData),
+      Helligkeit: transformHelligkeitData(fakeData),
+      Temperatur: transformTemperaturData(fakeData)
     };
   }
 
@@ -87,10 +87,10 @@ async function getData() {
   const jsonData = await res.json();
 
   return {
-    wassergehalt: transformWassergehaltData(jsonData),
-    luftfeuchtigkeit: transformLuftfeuchtigkeitData(jsonData),
-    helligkeit: transformHelligkeitData(jsonData),
-    temperatur: transformTemperaturData(jsonData)
+    Wassergehalt: transformWassergehaltData(jsonData),
+    Luftfeuchtigkeit: transformLuftfeuchtigkeitData(jsonData),
+    Helligkeit: transformHelligkeitData(jsonData),
+    Temperatur: transformTemperaturData(jsonData)
   };
   }
 
