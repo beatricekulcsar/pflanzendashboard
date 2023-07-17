@@ -14,15 +14,7 @@ const data = [
 	{
 		Tag: "Mittwoch",
 		Gießen: 1,
-	},
-    {
-		Tag: "Donnerstag",
-		Gießen: 1,
-	},
-    {
-		Tag: "Freitag",
-		Gießen: 4,
-	},
+	}
 ];
 
 export const GießenChart = () => {
@@ -39,6 +31,7 @@ export const GießenChart = () => {
 			showGridLines={false}
 			showYAxis={true}
 			showLegend={false}
+            allowDecimals={false}
 		/>
 	)
 };

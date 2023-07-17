@@ -7,6 +7,7 @@ import { HelligkeitCard } from './helligkeit-card';
 import { LuftfeuchtigkeitCard } from './luftfeuchtigkeit-card';
 import { GießenCard } from './gießen-card';
 import {CalloutItems} from './callout';
+import {GießenButton} from './gießen-button';
 
 
 
@@ -19,7 +20,10 @@ export const MainContent = (props) => {
 
         <main className="p-4 w-full">
 
-            <CalloutItems />
+        
+        <CalloutItems />
+         
+            
 
             <Grid numItemsMd={2} className="mt-6 gap-4">
                 <WassergehaltCard data={data.Wassergehalt} />

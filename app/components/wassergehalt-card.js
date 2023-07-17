@@ -6,7 +6,7 @@ export const WassergehaltCard = (props) => {
     console.log(data)
     const latest = data[data.length - 1];
     const oldest = data[0];
-    const delta = latest.Wassergehalt - oldest.Wassergehalt;
+    const delta = (latest.Wassergehalt - oldest.Wassergehalt).toFixed(2);
     let deltaType = "unchanged";
     if ( delta > 0 ) {
         deltaType = "moderateIncrease"

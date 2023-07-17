@@ -5,7 +5,7 @@ export const HelligkeitCard = (props) => {
     const { data } = props;
     const latest = data[data.length - 1];
     const oldest = data[0];
-    const delta = latest.Helligkeit - oldest.Helligkeit;
+    const delta = (latest.Helligkeit - oldest.Helligkeit).toFixed(2);
     let deltaType = "unchanged";
     if ( delta > 0 ) {
         deltaType = "moderateIncrease"

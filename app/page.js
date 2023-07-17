@@ -2,6 +2,11 @@ import Sidebar from "./components/sidebar";
 import { MainContent } from "./components/main";
 import fakeJSON from "../public/sensordaten.json";
 
+function wertInProzent(wert) {
+  const prozent = (Math.max(Math.min(((1023 - wert) / 1023 * 100), 100), 0)).toFixed(2);
+  return prozent;
+}
+
 function transformWassergehaltData(input) {
   const transformedData = input.map(item => {
     const { zeit, feuchtigkeitswert, helligkeitswert, temperaturwert, luftfeuchtigkeitswert } = item;
@@ -9,7 +14,7 @@ function transformWassergehaltData(input) {
     
     return {
       Uhrzeit: uhrzeit,
-      Wassergehalt: feuchtigkeitswert
+      Wassergehalt: wertInProzent(feuchtigkeitswert)
     };
   });
   
@@ -37,7 +42,7 @@ function transformHelligkeitData(input) {
     
     return {
       Uhrzeit: uhrzeit,
-      Helligkeit: helligkeitswert
+      Helligkeit: wertInProzent(helligkeitswert)
     };
   });
   

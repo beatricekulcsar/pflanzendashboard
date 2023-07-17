@@ -9,8 +9,9 @@ export default function DefaultSidebar() {
 			<Sidebar.Items>
 				<Sidebar.ItemGroup>
 					<div className="mt-4">
-						<Sidebar.Item
+						<Sidebar.Item 
 							href="#"
+							className="bg-tremor-brand text-white hover:bg-tremor-brand"
 						>
 							<p>
 								Salat

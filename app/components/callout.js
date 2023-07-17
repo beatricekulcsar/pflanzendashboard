@@ -1,4 +1,5 @@
-import { Callout } from "@tremor/react";
+import { Callout, Flex } from "@tremor/react";
+import {GießenButton} from './gießen-button';
 
 const data = [
     {
@@ -30,9 +31,9 @@ export const CalloutItems = () => {
 
     return (
         
-        <>
+        <Flex justifyContent="start" className="gap-12">
         <Callout
-            className="h-12 mt-4"
+            className=" mt-4"
             title="Bewässerung"
             color="blue"
         >
@@ -42,7 +43,7 @@ export const CalloutItems = () => {
 
      
         <Callout
-            className="h-12 mt-4"
+            className="mt-4"
             title="Helligkeit"
             color="amber"
             >
@@ -51,13 +52,14 @@ export const CalloutItems = () => {
         </Callout>
         
         <Callout
-            className="h-12 mt-4"
+            className="mt-4"
             title="Temperatur"
             color="emerald"
             >
             {latest.MessageTemperatur}
 
         </Callout>
-        </>
+
+        </Flex>
     )
 };

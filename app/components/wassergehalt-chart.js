@@ -2,6 +2,10 @@
 
 import { AreaChart } from "@tremor/react";
 
+function wertInProzent(wert) {  
+	const prozent = (1023 - wert) / 1023 * 100;
+	return prozent;
+  }
 
 
 export const WassergehaltChart = (props) => {
